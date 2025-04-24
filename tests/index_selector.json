@@ -1,7 +1,7 @@
 {
   "tests": [
     {
-      "name": "first element",
+      "name": "first element test",
       "selector": "$[0]",
       "document": [
         "first",
